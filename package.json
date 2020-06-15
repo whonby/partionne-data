@@ -1,0 +1,25 @@
+{
+  "name": "jspartiondata",
+  "version": "1.0.0",
+  "description": "module de partionnement de donne",
+  "main": "module.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whonby/partionne-data.git"
+  },
+  "keywords": [
+    "partionnement",
+    "json",
+    "javascript partion",
+    "data partion"
+  ],
+  "author": "Guei Roland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whonby/partionne-data/issues"
+  },
+  "homepage": "https://github.com/whonby/partionne-data#readme"
+}
